@@ -1,1 +1,0 @@
-# 3-rd lab by Jane Kovrova, AI-171
